@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mystery18
-- 👀 I’m interested in ...
+- 👀 I’m interested in programming, swimming, playing piano and playing basketball.
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... (I have no idea.) 
 
 Learn JavaScript from 2019.<br />
 On the way to become an excellent front-end development engineer.
